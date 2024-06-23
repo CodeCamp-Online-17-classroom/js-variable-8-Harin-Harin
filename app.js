@@ -1,1 +1,10 @@
-// write code here
+let a = 0;
+console.log(a);
+a++;
+console.log("a++;  ได้ค่าเท่ากับ", a);
+a += 3;
+console.log("a += 3  ได้ค่าเท่ากับ", a);
+a *= 17;
+console.log("a *= 17  ได้ค่าเท่ากับ", a);
+a %= 7;
+console.log("a %= 7  ได้ค่าเท่ากับ", a);
